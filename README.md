@@ -17,12 +17,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> Landing Page · Prediction Page · Dashboard · About
-
----
-
 ## ✨ Features
 
 - 🤖 **Real ML Model** — XGBoost & LightGBM trained on 284,807 real transactions
